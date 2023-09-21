@@ -9,9 +9,34 @@ EditorBuildSettings:
     path: Assets/Scenes/MenuScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Level.unity
-    guid: cef596fcd216291478dd8c66832552d5
+    path: Assets/Scenes/Plan B/Room 1/Room 1.unity
+    guid: bdf0ad7aac289f94f95ebf4232e1f8e9
   - enabled: 1
     path: Assets/Scenes/Instructions.unity
     guid: f349af21a2b9227449ce9611f934dd2e
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/Plan B/Room 2/Room 2.unity
+    guid: ddf6785072085494ca69581bf19999bd
+  - enabled: 1
+    path: Assets/Scenes/Plan B/Room 2/Room 2 Left.unity
+    guid: 2d0d3cba6503b724f8057bd3a623e316
+  - enabled: 1
+    path: Assets/Scenes/Plan B/Room 2/Room 2 Right.unity
+    guid: 46faf1147fdf19841bb75915aeaed8a8
+  - enabled: 1
+    path: Assets/Scenes/Plan B/Room 3/Room 3.unity
+    guid: 31f3269d5f7d0384985daaa689037319
+  - enabled: 1
+    path: Assets/Scenes/Plan B/Room 3/Room 3  Right.unity
+    guid: 7e1f7d651c5ba804b96f19707607a397
+  - enabled: 1
+    path: Assets/Scenes/Plan B/Room 3/Room 3 Left.unity
+    guid: 1994dd7759dee164aaa9314652619621
+  - enabled: 1
+    path: Assets/Scenes/Plan B/Boss Room/Boss Room.unity
+    guid: f034d77388a54124393ecd4e6975db7a
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 7a0b4492cfd1498479a37f8fd90536c0, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 719b30c17cbfba94aae1f0877b41ced9, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 5e5b5491993bea040b1c119e9d5ec691, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 165d4840f6a477c43b3450dbb0776633, type: 2}
